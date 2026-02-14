@@ -1,48 +1,30 @@
-User Data Express Web Application
-Live Demo
+Userdata Express Application
+Live Application
 
-Live Website:
+Live URL:
 https://userdata-project.onrender.com/
 
-Project Overview
+Overview
 
-The User Data Express Project is a Node.js and Express-based web application that dynamically serves user profile pages through routing.
-It demonstrates backend routing, static file serving, and deployment of a full-stack web project to a live cloud platform.
+The Userdata Express Application is a Node.js and Express.js web project that demonstrates dynamic routing and static content delivery through a lightweight backend server.
+The application displays a structured list of users and dynamically handles URL-based navigation to individual user routes.
 
-This project highlights real-world backend fundamentals such as:
+This project represents a practical implementation of backend web development fundamentals including server configuration, routing, and live cloud deployment.
 
-Express.js routing
+Key Features
 
-Static file hosting
+Express.js server implementation
+Dynamic URL routing for user pages
+Static frontend serving using Express middleware
+Clean responsive user interface
+Cloud deployment using Render
+Version-controlled project using GitHub
 
-REST-style URL handling
-
-Deployment using Render
-
-GitHub version control workflow
-
-Features
-
-Dynamic routing for user profile pages
-
-Clean responsive frontend UI
-
-Static assets served using Express middleware
-
-Live production deployment
-
-GitHub-integrated continuous deployment
-
-Tech Stack
+Technologies Used
 
 Node.js
-
 Express.js
-
 HTML5
-
 CSS3
-
 Git & GitHub
-
-Render Cloud Deployment
+Render (Cloud Hosting)
