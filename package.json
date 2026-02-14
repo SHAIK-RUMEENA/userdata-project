@@ -1,4 +1,11 @@
 {
+  "name": "userdata-project",
+  "version": "1.0.0",
+  "description": "Userdata Express Project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
     "express": "^5.2.1"
   }
